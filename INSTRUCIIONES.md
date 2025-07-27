@@ -27,3 +27,5 @@ ollama pull llama3
 ollama pull all-minilm
 
 Crear la carpetaa docs y dentro meter los pdf
+
+python rag.py
